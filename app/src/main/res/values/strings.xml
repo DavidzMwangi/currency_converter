@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_single_currency">Convert</string>
+    <string-array name="crypto_currency_array">
+        <item>BTC</item>
+        <item>ETH</item>
+
+    </string-array>
+</resources>
